@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Antemortem Inspection App
 
 A desktop application for automated lesion detection and inspection management using computer vision and deep learning.
@@ -86,3 +87,7 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# SmartAntemortemInspection
+A computer vision based system to detect pig livestock lesions, powered by Electron, React, Tailwind, Python Backend
+>>>>>>> a3f67e12ec5080289b8b95fe51452fe6a022bd12
